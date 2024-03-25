@@ -2,8 +2,8 @@
 Simple CSV file uploader and viewer data
 
 
-Git Repository link: https://github.com/pajithpsap/CSV-File-Upload
-Deployment Link: https://csv-file-upload-ea9h.onrender.com/
+Git Repository link: https://github.com/pajithpsap/CSV-File-Upload 
+Deployment Link: https://csv-file-upload-bex7.onrender.com/
 Installation
 To install CSV File Upload, please follow these steps:
 
