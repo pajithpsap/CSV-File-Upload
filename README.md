@@ -3,9 +3,9 @@ Simple CSV file uploader and viewer data
 
 
 Git Repository link: https://github.com/pajithpsap/CSV-File-Upload
-
+Deployment Link: https://csv-file-upload-ea9h.onrender.com/
 Installation
-To install CSVMaster, please follow these steps:
+To install CSV File Upload, please follow these steps:
 
 Clone this repository using the following command:
 
